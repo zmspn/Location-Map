@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Location</string>
+    <string name="coordinates"> Latitude: %1$f Longitude: %2$f </string>
+    <string name="textview">TextView</string>
+</resources>
